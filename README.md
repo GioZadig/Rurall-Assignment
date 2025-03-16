@@ -34,10 +34,16 @@ conda activate rurall_env
 To install the required Python packages for the rurall assignment tackled here into the environment, use the following command:
 
 ```bash
-conda install jupyter numpy metpy matplotlib geopandas datetime contextily scienceplots plotly
+conda install -c conda-forge jupyter numpy metpy matplotlib geopandas contextily scienceplots plotly
 ```
 
-### Opening the jupyter notebook
+### Installing Jupyter and opening the jupyter notebook
+
+To install Jupyter in the conda environment, launch from the terminal the following command:
+
+```bash
+conda install jupyter
+```
 
 To open a jupyter notebook, within the conda environment, launch from the terminal the following command:
 
