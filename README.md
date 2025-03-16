@@ -1,4 +1,4 @@
-# Rurall_geo
+# Rurall Assignment
 
 ## Installation Guide
 
